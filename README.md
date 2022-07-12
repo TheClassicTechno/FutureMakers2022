@@ -4,3 +4,6 @@ I finished all questions in the colab notebook assigned today, finishing most qu
 
 Day 2 (7/7/22) Reflection
 I finished all questions in the colab notebook assigned today, finishing most questions (except the 2 hardest ones) without help. I knew machine learning basics but needed a bit of refreshing on certain concepts. 
+
+Day 3 (7/11/22) Reflection
+I finished all questions in the colab notebook assigned today, finishing all questions without help. I knew machine learning models and topics about them but needed a bit of refreshing on certain concepts. 
