@@ -8,5 +8,5 @@ I finished all questions in the colab notebook assigned today, finishing most qu
 ##Day 3 (7/11/22) Reflection
 I finished all questions in the colab notebook assigned today, finishing all questions without help. I knew machine learning models and topics about them but needed a bit of refreshing on certain concepts. 
 
-##Day 4 (7/11/22) Reflection 
+##Day 4 (7/12/22) Reflection 
 I finished all questions in the colab notebook assigned today, finishing all questions without help. I'm familiar with tensorflow and deep neural networks and it was nice to get a refresher on these concepts.
