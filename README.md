@@ -11,4 +11,6 @@ I finished all questions in the colab notebook assigned today, finishing all que
 ##Day 4 (7/12/22) Reflection 
 I finished all questions in the colab notebook assigned today, finishing all questions without help. I'm familiar with tensorflow and deep neural networks and it was nice to get a refresher on these concepts.
 
-##Day 5 (7/13/22) Reflection I finished all questions in the colab notebook assigned today, finishing all questions without help. I would need some help with clarifying some of the concepts and questions, but other than that I understand the gist of it.
+##Day 5 (7/13/22) Reflection I finished all questions in the colab notebook assigned today, finishing all questions without help. I would need some help with clarifying some of the concepts and questions about neural networks, but other than that I understand the gist of it.
+
+##Day 6 (7/14/22) Reflection I finished all questions in the colab notebook assigned today, finishing all questions without help. I would need some help with clarifying some of the concepts and questions about CNNs, but other than that I understand the gist of it.
