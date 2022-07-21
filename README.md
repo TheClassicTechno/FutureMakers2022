@@ -20,3 +20,5 @@ I finished all questions in the colab notebook assigned today, finishing all que
 ##Day 8 (7/18/22) Reflection I finished all questions in the colab notebook assigned today, finishing most questions without help except 1. I am familiar with CNN concepts, feature maps, filters, etc., but it was very interesting to take a deep look into them technically by writing code to output them.
 
 ##Day 9 (7/19/22) Reflection I finished all questions in the colab notebook assigned today, finishing almost all questions without help. I am familiar with basic concepts surrounding loss functions, but it was very interesting to take a deep look into them technically by writing code to compare and output different types of loss functions.
+
+##Day 10 (7/20/22) Reflection I finished all questions in the colab notebook assigned today, finishing most questions without help. I am familiar with basic concepts surrounding activation functions, but it was very complex and interesting to take a deep look into complex activation functions technically by writing code to define these functions.
