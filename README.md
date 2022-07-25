@@ -24,3 +24,5 @@ I finished all questions in the colab notebook assigned today, finishing all que
 ##Day 10 (7/20/22) Reflection I finished all questions in the colab notebook assigned today, finishing most questions without help. I am familiar with basic concepts surrounding activation functions, but it was very complex and interesting to take a deep look into complex activation functions technically by writing code to define these functions.
 
 ##Day 11 (7/21/22) Reflection I finished all questions in the colab notebook assigned today, finishing all questions without help. I am familiar with basic concepts surrounding machine learning ethics and inclusion, but it was very interesting to take a deep look into intriguing questions and prompts surrounding how to make machine learning more ethical and inclusive for all.
+
+##Day 12 (7/25/22) Reflection I finished most questions in the colab notebook assigned today, although I did have an error for question 3. I am familiar with concepts surrounding image classification and CNNs, but it was very interesting to take a deep dive into a binary classification task with a cat and dog dataset.
